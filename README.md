@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 🌱 Currently learning Python, HTML, CSS, JavaScript, and Git/GitHub
-- 💻 Interested in Web Development
+- 🌱 Currently learning Dart,Flutter, HTML, CSS, JavaScript, and Git/GitHub
+- 💻 Interested in App Development
 - 🎯 Goal: Become a Software Developer
 
 ## Skills
